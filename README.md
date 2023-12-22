@@ -1,7 +1,7 @@
 # Bharatintern02
 Bharat InternTask 02 Done
 
-#ScreeShots
+# ScreenShots
 
 ![image](https://github.com/FluKM/Bharatintern02/assets/121596131/d67d49d3-43b2-4cfd-813c-23a7636a2e18)
 
